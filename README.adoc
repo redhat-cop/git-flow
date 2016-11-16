@@ -1,0 +1,3 @@
+= Git Flow for Open Sourced Projects
+
+See link:https://github.com/redhat-cop/git-flow/wiki[Wiki Site] for content
